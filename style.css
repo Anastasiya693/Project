@@ -1,10 +1,10 @@
 <style>
 body
 {
+  background-color: #212121;
   font-family: "Wix Madefor Text", sans-serif;
   min-width: 320px;
   margin: 0;
-  background-color: #212121;
   color: white;
 }
 html, body 
